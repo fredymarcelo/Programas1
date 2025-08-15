@@ -5,5 +5,6 @@ int main()
 {
     /* code */
     cout << "Hola mundo" << endl;
+    cout << "esta es la versión 2" <<endl;
     return 0;
 }
